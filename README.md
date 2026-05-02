@@ -1,4 +1,4 @@
-# 💪 GymGuide — Interactive Workout Planner
+#  GymGuide — Interactive Workout Planner
 
 A modular, interactive gym guide built with Streamlit.
 
