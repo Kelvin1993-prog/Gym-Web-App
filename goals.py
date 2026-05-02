@@ -1,0 +1,67 @@
+GOALS = {
+    "💪 Build Muscle & Strength": {
+        "icon": "💪",
+        "desc": "Heavy lifting, compound movements, progressive overload",
+        "days": {
+            "Monday":    "Upper Push",
+            "Tuesday":   "Lower A",
+            "Wednesday": "Rest",
+            "Thursday":  "Upper Pull",
+            "Friday":    "Lower B",
+            "Saturday":  "Rest",
+            "Sunday":    "Rest",
+        },
+    },
+    "🏃 General Fitness": {
+        "icon": "🏃",
+        "desc": "Balanced mix of strength, cardio and flexibility",
+        "days": {
+            "Monday":    "Full Body Strength",
+            "Tuesday":   "Cardio & Core",
+            "Wednesday": "Rest",
+            "Thursday":  "Full Body Strength",
+            "Friday":    "Cardio & Flexibility",
+            "Saturday":  "Active Recovery",
+            "Sunday":    "Rest",
+        },
+    },
+    "🔥 Weight Loss & Toning": {
+        "icon": "🔥",
+        "desc": "High-intensity circuits, fat burning & body recomposition",
+        "days": {
+            "Monday":    "HIIT & Circuits",
+            "Tuesday":   "Strength & Cardio",
+            "Wednesday": "Rest",
+            "Thursday":  "HIIT & Circuits",
+            "Friday":    "Strength & Cardio",
+            "Saturday":  "Light Cardio",
+            "Sunday":    "Rest",
+        },
+    },
+    "🚴 Endurance & Cardio": {
+        "icon": "🚴",
+        "desc": "Aerobic capacity, stamina and cardiovascular health",
+        "days": {
+            "Monday":    "Steady-State Cardio",
+            "Tuesday":   "Interval Training",
+            "Wednesday": "Cross Training",
+            "Thursday":  "Rest",
+            "Friday":    "Long Cardio Session",
+            "Saturday":  "Recovery Cardio",
+            "Sunday":    "Rest",
+        },
+    },
+    "🧘 Flexibility & Mobility": {
+        "icon": "🧘",
+        "desc": "Yoga, stretching, joint health and posture improvement",
+        "days": {
+            "Monday":    "Yoga Flow",
+            "Tuesday":   "Mobility Drills",
+            "Wednesday": "Rest",
+            "Thursday":  "Yoga Flow",
+            "Friday":    "Deep Stretch",
+            "Saturday":  "Active Mobility",
+            "Sunday":    "Rest",
+        },
+    },
+}
